@@ -1,8 +1,8 @@
 """
-Implementacion de una tecnica de aprendizaje.
+Implementacion de una tecnica de aprendizaje sin frameworks. MODULO 2
+Mario Alberto Perez Barrera A01799928
+
 Red neuronal feedforward (1 capa oculta) para clasificacion binaria, entrenada con backpropagation manual.
-
-
 sklearn.datasets se usa UNICAMENTE para generar y dividir los datos.
 """
 
