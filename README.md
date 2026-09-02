@@ -7,7 +7,7 @@ con una capa oculta, entrenada con backpropagation.
 ## Cómo correrlo
 
 ```bash
-python3 feedforward_nn.py
+python3 feedforward.py
 ```
 
 ## Arquitectura
